@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">Đorđe Žerajić — Software Developer</title>
+<desc id="desc">Midnight-blue geometric technology-themed banner featuring Đorđe Žerajić, software engineering, full-stack development, AI and algorithms.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#070F22"/><stop offset="0.55" stop-color="#10162E"/><stop offset="1" stop-color="#0B1627"/></linearGradient>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#66D8E5"/><stop offset=".5" stop-color="#8F88FF"/><stop offset="1" stop-color="#C49BFE"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" y2="0"><stop stop-color="#7BE2F2"/><stop offset="1" stop-color="#9786FF"/></linearGradient>
+  <radialGradient id="haze"><stop stop-color="#8D79FA" stop-opacity="0.35"/><stop offset="1" stop-color="#8D79FA" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M 38 0 L 0 0 0 38" fill="none" stroke="#95B4E6" stroke-opacity=".075" stroke-width="1"/></pattern>
+  <clipPath id="clip"><rect width="1280" height="360" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+  <rect width="1280" height="360" fill="url(#bg)"/>
+  <rect width="1280" height="360" fill="url(#grid)"/>
+  <circle cx="1078" cy="110" r="250" fill="url(#haze)"/>
+  <path d="M0 359h1280" stroke="url(#line)" stroke-width="3"/>
+  <path d="M73 82h38" stroke="#79D6E6" stroke-width="4" stroke-linecap="round"/>
+  <text x="126" y="89" fill="#81D4E8" font-size="17" letter-spacing="3.6" font-family="DejaVu Sans, Arial, sans-serif" font-weight="bold">HELLO, I'M</text>
+  <text x="70" y="169" fill="#F3F6FF" font-size="54" font-family="DejaVu Sans, Arial, sans-serif" font-weight="bold">ĐORĐE ŽERAJIĆ</text>
+  <text x="73" y="215" fill="#AEBFD9" font-size="21" font-family="DejaVu Sans, Arial, sans-serif">Software Developer  /  Software Engineering Student</text>
+  <g transform="translate(73,258)">
+    <rect width="143" height="36" rx="9" fill="#1B2F44" stroke="#3B6F83"/>
+    <circle cx="16" cy="18" r="4" fill="#72D8CC"/>
+    <text x="29" y="23" fill="#C6EDFA" font-size="12" font-family="DejaVu Sans, Arial, sans-serif">FULL-STACK</text>
+    <rect x="155" width="110" height="36" rx="9" fill="#292341" stroke="#645488"/>
+    <circle cx="171" cy="18" r="4" fill="#A6A0FF"/>
+    <text x="183" y="23" fill="#DFD8FF" font-size="12" font-family="DejaVu Sans, Arial, sans-serif">AI &amp; ML</text>
+    <rect x="277" width="154" height="36" rx="9" fill="#1F2940" stroke="#465D91"/>
+    <circle cx="293" cy="18" r="4" fill="#82A9FB"/>
+    <text x="305" y="23" fill="#D4DCFC" font-size="12" font-family="DejaVu Sans, Arial, sans-serif">ALGORITHMS</text>
+  </g>
+  <g opacity=".8">
+    <path d="M833 60l-45 43 45 42M1065 60l45 43-45 42" fill="none" stroke="#5C6FAD" stroke-width="2"/>
+    <path d="M960 24l-42 146" stroke="#596DAB" stroke-width="2"/>
+  </g>
+  <rect x="795" y="168" width="409" height="149" rx="14" fill="#0D192E" stroke="#48648A" stroke-opacity=".8"/>
+  <path d="M796 207h406" stroke="#384E71"/>
+  <circle cx="818" cy="188" r="5" fill="#FF777F"/><circle cx="836" cy="188" r="5" fill="#FFC36A"/><circle cx="854" cy="188" r="5" fill="#72D9BE"/>
+  <text x="885" y="193" fill="#7E94B6" font-size="11" font-family="DejaVu Sans Mono, monospace">dev / focus.ts</text>
+  <text x="822" y="240" fill="#82BDFD" font-size="17" font-family="DejaVu Sans Mono, monospace">const</text>
+  <text x="882" y="240" fill="#E3E7F7" font-size="17" font-family="DejaVu Sans Mono, monospace">focus</text>
+  <text x="937" y="240" fill="#9B9FB9" font-size="17" font-family="DejaVu Sans Mono, monospace">=</text>
+  <text x="965" y="240" fill="#C6A2FF" font-size="17" font-family="DejaVu Sans Mono, monospace">[</text>
+  <text x="845" y="269" fill="#7ED9BF" font-size="16" font-family="DejaVu Sans Mono, monospace">'build',  'learn',  'ship'</text>
+  <text x="820" y="296" fill="#C6A2FF" font-size="17" font-family="DejaVu Sans Mono, monospace">];</text>
+  <path d="M1223 37h-15v-15M1213 23l22 22" stroke="#93A1D9" stroke-width="1.7" fill="none" opacity=".5"/>
+</g></svg>
