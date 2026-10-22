@@ -1,16 +1,92 @@
-## Hi there 👋
+<div align="center">
+  <img src="./assets/banner.svg" alt="Đorđe Žerajić — Software Developer | Full-stack, AI &amp; Algorithms" width="100%" />
 
-<!--
-**id1119/id1119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://www.linkedin.com/in/%C4%91or%C4%91e-%C5%BEeraji%C4%87-56b387404/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=70B9FF" /></a>
+  <a href="mailto:djordje.zerajic0@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say%20hello-111827?style=for-the-badge&logo=gmail&logoColor=EAA5B5" /></a>
+  <a href="https://github.com/id1119?tab=repositories"><img alt="GitHub projects" src="https://img.shields.io/badge/GitHub-My%20projects-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
 
-Here are some ideas to get you started:
+  <br /><br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1400&center=true&vCenter=true&width=760&height=42&color=8C9EFF&lines=I+build+full-stack+software+that+solves+real+problems.;Exploring+AI%2C+algorithms+and+secure+systems.;Always+curious.+Always+building." alt="Full-stack development, AI, algorithms and secure systems" /></a>
+</div>
+
+---
+
+### 01 · About me
+
+I'm **Đorđe**, a Software Engineering student at the **Faculty of Technical Sciences, University of Novi Sad** (**GPA: 9.5/10**). I enjoy building end-to-end applications, working through challenging algorithmic problems, and turning hackathon ideas into working prototypes.
+
+- 💼 **Software Developer at PaySpot (Aug 2025 – Apr 2026):** worked across **Angular**, **C#/.NET**, **DB2/SQL**, and **JasperReports**, debugging and delivering web-application features with a team.
+- 🥉 **3rd place — GDG DevFest 2026 Hackathon:** built **PitchCheck**, a privacy-first AI-powered pitch review platform with my team.
+- 🧠 Interested in **full-stack engineering, applied AI, algorithms, and security-oriented systems**.
+- 📍 Based in **Novi Sad, Serbia**.
+
+### 02 · Selected projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🥉 <a href="https://github.com/tomovicj/pitchcheck">PitchCheck</a></h3>
+      <p>A privacy-first AI pitch-review platform that analyzes presentation slides, spoken delivery, and how well a pitch matches its deck.</p>
+      <p><b>3rd place · GDG DevFest 2026</b></p>
+      <p><code>Gemma 4</code> <code>Next.js</code> <code>FastAPI</code></p>
+      <a href="https://github.com/tomovicj/pitchcheck">View team repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔐 <a href="https://github.com/id1119/master-recovery">Master Recovery</a></h3>
+      <p>An experimental distributed secret-recovery protocol with threshold authorization, encrypted shares, a recovery delay, and local reconstruction.</p>
+      <p><b>Petnica Web3 Hackathon 2026</b></p>
+      <p><code>Rust</code> <code>Cryptography</code> <code>Web3</code></p>
+      <a href="https://github.com/id1119/master-recovery">Explore project →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://github.com/id1119/social-graph-engine">Social Graph Engine</a></h3>
+      <p>A social-network graph engine with PageRank, personalized recommendations, inverted-index search, trie autocomplete, and BFS traversal.</p>
+      <p><code>Python</code> <code>Graphs</code> <code>Data structures</code></p>
+      <a href="https://github.com/id1119/social-graph-engine">Explore project →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>♟️ <a href="https://github.com/id1119/checkers-ai-engine">Checkers AI Engine</a></h3>
+      <p>A custom strategy-game engine with minimax, alpha-beta pruning, iterative deepening, Zobrist hashing, and a transposition table.</p>
+      <p><code>Python</code> <code>Game AI</code> <code>Search algorithms</code></p>
+      <a href="https://github.com/id1119/checkers-ai-engine">Explore project →</a>
+    </td>
+  </tr>
+</table>
+
+<sub>Also built <b>Taskana</b>, an AI-agent freelance marketplace concept, with a team at the Petnica Web3 Hackathon (2026).</sub>
+
+### 03 · Tech stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-101827?style=flat-square&logo=python&logoColor=6AA9EF)
+![C#](https://img.shields.io/badge/C%23-101827?style=flat-square&logo=sharp&logoColor=B391F5)
+![Java](https://img.shields.io/badge/Java-101827?style=flat-square&logo=openjdk&logoColor=EF9F75)
+![TypeScript](https://img.shields.io/badge/TypeScript-101827?style=flat-square&logo=typescript&logoColor=80B5FF)
+![SQL](https://img.shields.io/badge/SQL-101827?style=flat-square&logo=postgresql&logoColor=8EBAF5)
+
+**Frameworks & tools**
+
+![Angular](https://img.shields.io/badge/Angular-101827?style=flat-square&logo=angular&logoColor=E888BC)
+![.NET](https://img.shields.io/badge/.NET-101827?style=flat-square&logo=dotnet&logoColor=A7A2F9)
+![Next.js](https://img.shields.io/badge/Next.js-101827?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
+![FastAPI](https://img.shields.io/badge/FastAPI-101827?style=flat-square&logo=fastapi&logoColor=83D6BE)
+![Git](https://img.shields.io/badge/Git-101827?style=flat-square&logo=git&logoColor=F8A37D)
+
+<sub>Also experienced with DB2, JasperReports, debugging, and collaborative Git workflows.</sub>
+
+### 04 · Beyond the code
+
+- 🎓 **BSc Software Engineering & Information Technologies** — University of Novi Sad, Faculty of Technical Sciences (2025 – present)
+- 🏕️ **Web3 Camp** — Petnica Science Center (2026)
+- 🛠️ **Industry + hackathons + university projects** — I like applying theory to real software.
+
+---
+
+<div align="center">
+  <b>Have a project in mind or want to talk software?</b><br />
+  <a href="mailto:djordje.zerajic0@gmail.com">Email me</a> · <a href="https://www.linkedin.com/in/%C4%91or%C4%91e-%C5%BEeraji%C4%87-56b387404/">LinkedIn</a> · <a href="https://github.com/id1119?tab=repositories">Explore my repositories</a>
+</div>
