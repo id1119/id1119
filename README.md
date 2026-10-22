@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Đorđe Žerajić — Software Developer | Full-stack, AI &amp; Algorithms" width="100%" />
-
   <a href="https://www.linkedin.com/in/%C4%91or%C4%91e-%C5%BEeraji%C4%87-56b387404/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=70B9FF" /></a>
   <a href="mailto:djordje.zerajic0@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say%20hello-111827?style=for-the-badge&logo=gmail&logoColor=EAA5B5" /></a>
   <a href="https://github.com/id1119?tab=repositories"><img alt="GitHub projects" src="https://img.shields.io/badge/GitHub-My%20projects-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
@@ -42,10 +40,10 @@ I'm **Đorđe**, a Software Engineering student at the **Faculty of Technical Sc
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/id1119/social-graph-engine">Social Graph Engine</a></h3>
-      <p>A social-network graph engine with PageRank, personalized recommendations, inverted-index search, trie autocomplete, and BFS traversal.</p>
-      <p><code>Python</code> <code>Graphs</code> <code>Data structures</code></p>
-      <a href="https://github.com/id1119/social-graph-engine">Explore project →</a>
+      <h3>🔎 <a href="https://github.com/id1119/kp-market-scanner">KP Market Scanner</a></h3>
+      <p>A Python scraper and ranking tool for KupujemProdajem listings. It filters irrelevant hardware offers, detects GPU models, and ranks results by relevance and deal signals.</p>
+      <p><code>Python</code> <code>Requests</code> <code>Beautiful Soup</code></p>
+      <a href="https://github.com/id1119/kp-market-scanner">Explore project →</a>
     </td>
     <td width="50%" valign="top">
       <h3>♟️ <a href="https://github.com/id1119/checkers-ai-engine">Checkers AI Engine</a></h3>
