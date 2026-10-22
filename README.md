@@ -5,7 +5,7 @@
 
   <br /><br />
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1400&center=true&vCenter=true&width=760&height=42&color=8C9EFF&lines=I+build+full-stack+software+that+solves+real+problems.;Exploring+AI%2C+algorithms+and+secure+systems.;Always+curious.+Always+building." alt="Full-stack development, AI, algorithms and secure systems" /></a>
+  <img src="./assets/orbit.svg" alt="Animated generative orbital artwork with luminous blue and violet trails" width="100%" />
 </div>
 
 ---
