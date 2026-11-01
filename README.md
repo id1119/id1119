@@ -23,6 +23,15 @@ I'm **Đorđe**, a Software Engineering student at the **Faculty of Technical Sc
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <h3>🏛️ <a href="https://github.com/petarpopovic013/archilles">Archilles</a></h3>
+      <p>An AI-assisted architectural plan review tool that detects potential fire-safety and accessibility issues. Three collaborating agents interpret floor plans and regulatory context, while a deterministic rule engine produces traceable findings and allows instant dimension rechecks.</p>
+      <p><b>JigJoy × NTP Novi Sad Hackathon 2026</b></p>
+      <p><code>TypeScript</code> <code>Next.js</code> <code>Claude Vision</code> <code>Mozaik</code></p>
+      <a href="https://github.com/petarpopovic013/archilles">View team repository →</a>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🥉 <a href="https://github.com/tomovicj/pitchcheck">PitchCheck</a></h3>
       <p>A privacy-first AI pitch-review platform that analyzes presentation slides, spoken delivery, and how well a pitch matches its deck.</p>
@@ -50,15 +59,6 @@ I'm **Đorđe**, a Software Engineering student at the **Faculty of Technical Sc
       <p>A custom strategy-game engine with minimax, alpha-beta pruning, iterative deepening, Zobrist hashing, and a transposition table.</p>
       <p><code>Python</code> <code>Game AI</code> <code>Search algorithms</code></p>
       <a href="https://github.com/id1119/checkers-ai-engine">Explore project →</a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🏛️ <a href="https://github.com/petarpopovic013/archilles">Archilles</a></h3>
-      <p>An AI-assisted architectural plan review tool that detects potential fire-safety and accessibility issues. Three collaborating agents interpret floor plans and regulatory context, while a deterministic rule engine produces traceable findings and allows instant dimension rechecks.</p>
-      <p><b>JigJoy × NTP Novi Sad Hackathon 2026</b></p>
-      <p><code>TypeScript</code> <code>Next.js</code> <code>Claude Vision</code> <code>Mozaik</code></p>
-      <a href="https://github.com/petarpopovic013/archilles">View team repository →</a>
     </td>
   </tr>
 </table>
